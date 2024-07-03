@@ -49,7 +49,7 @@ const page = ({params}) => {
         <h1 className='my-8 text-[28px] font-semibold'>Introduction</h1>
         <p>{data.description}</p>
  
-        <p className='my-8 text-[18px]'>{data.content}</p>
+        <p className='my-8 text-[18px]'>Hello</p>
 
         <div className='my-24'>
             <p className='text-black my-4 font-semibold'>Share this article on</p>
