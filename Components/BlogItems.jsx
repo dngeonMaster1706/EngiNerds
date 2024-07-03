@@ -19,7 +19,7 @@ const BlogItems = ({title,description,category,image,id}) => {
             {title}
         </h5>
         <p className='mb-3 text-sm tracking-tight text-gray-700'>{description}</p>
-        <Link href={`/blogs/${id}`} className='inline-flex items-center py-2 font-semibold text-center'>
+        <Link href={`/blogs/${id}`} className='inline-flex items-center py-2 font-semibold text-center hover:bg-gray-300'>
             Read More <Image src={assets.arrow} className='ml-2' alt='' width={12}/>
         </Link>
       </div>
