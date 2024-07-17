@@ -21,10 +21,7 @@ A full-stack blog application developed using Next.js, MongoDB, and Tailwind CSS
 
 [Insert Link to Live Demo]
 
-## Screenshots
 
-![Home Page](path/to/homepage-screenshot.png)
-![Admin Dashboard](path/to/admin-dashboard-screenshot.png)
 
 ## Getting Started
 
